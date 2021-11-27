@@ -1,2 +1,2 @@
 # tiny-profiler-rs
-A CPU profiller PoC written in Rust using libbpf
+A CPU profiler PoC written in Rust using libbpf
